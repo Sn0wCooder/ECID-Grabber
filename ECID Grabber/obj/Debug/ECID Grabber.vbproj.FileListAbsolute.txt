@@ -1,0 +1,10 @@
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\bin\Debug\ECID Grabber.exe.config
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\bin\Debug\ECID Grabber.exe
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\bin\Debug\ECID Grabber.pdb
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\bin\Debug\ECID Grabber.xml
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID_Grabber.Form1.resources
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID_Grabber.Resources.resources
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID Grabber.vbproj.GenerateResource.Cache
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID Grabber.exe
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID Grabber.xml
+C:\Users\Leonardo\Source\Repos\shsh-grabber\ECID Grabber\ECID Grabber\obj\Debug\ECID Grabber.pdb
